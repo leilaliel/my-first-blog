@@ -25,7 +25,7 @@ SECRET_KEY = 'qido@&zlerqz=5m!en8k@&%*22hu52t7o-@5@@*!5i%en$l0sn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'leilaliel.pythonanywhere.com']
 
 
 # Application definition
